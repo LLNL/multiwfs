@@ -1,0 +1,5 @@
+[deps]
+cxvpy = ""
+
+    [deps.cvxpy]
+    channel = "conda-forge"

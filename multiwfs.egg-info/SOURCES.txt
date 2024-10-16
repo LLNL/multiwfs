@@ -1,0 +1,9 @@
+setup.py
+multiwfs/__init__.py
+multiwfs/dare.py
+multiwfs/lqg.py
+multiwfs/multiwfs.py
+multiwfs.egg-info/PKG-INFO
+multiwfs.egg-info/SOURCES.txt
+multiwfs.egg-info/dependency_links.txt
+multiwfs.egg-info/top_level.txt
